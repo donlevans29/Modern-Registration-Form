@@ -11,3 +11,6 @@ Building business on the web is about gathering data and you do that using regis
 
 <h1>Work in Progress</h1>
 The readme file will be updated as it's developed.
+
+## Features To Add
+- Onboarding | signup with social media buttons, payment with api + Oauth + Validation + Try/Catch Errors, login, logout, 
